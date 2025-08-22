@@ -28,3 +28,6 @@ Insights for Business: Helps in optimizing inventory, focusing on best sellers, 
 
 Outcome:
 The dashboard provides actionable insights into sales performance, helping the business to increase revenue, improve customer satisfaction, and streamline operations by focusing on high-demand products and peak sales periods.
+
+Dashboard: ![Snapshot of Dashboard](https://github.com/Dipalikade/pizza-sales/blob/main/Snapshot%20Of%20dashboard.png?raw=true)
+
